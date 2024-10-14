@@ -5,7 +5,7 @@
 - **Skills Used**:
   - Data manipulating.
   - Time series forecasting model.
-  - Creating interactive pyplot graph.
+  - Creating interactive Plotly graph.
   - Algorithm: Prophet, LSTM, Random Forest.
   - Evaluation: MSE, MAE, RMSE.
     

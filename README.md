@@ -4,6 +4,7 @@
 - **Data Source**: The dataset used in this project is sourced from www.humdata.org
 - **Skills Used**:
   - Data manipulating.
+  - Time series forecasting model.
   - Creating interactive pyplot graph.
   - Algorithm: Prophet, LSTM, Random Forest.
   - Evaluation: MSE, MAE, RMSE.
